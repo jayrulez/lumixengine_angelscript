@@ -26,7 +26,7 @@ project "angelscript"
         --"external/sdk/angelscript/source/as_callfunc_sh4.cpp",
         "external/sdk/angelscript/source/as_callfunc_x64_gcc.cpp",
         "external/sdk/angelscript/source/as_callfunc_x64_mingw.cpp",
-        --"external/sdk/angelscript/source/as_callfunc_x64_msvc_asm.asm",
+        "external/sdk/angelscript/source/as_callfunc_x64_msvc_asm.asm",
         "external/sdk/angelscript/source/as_callfunc_x64_msvc.cpp",
         "external/sdk/angelscript/source/as_callfunc_x86.cpp",
         --"external/sdk/angelscript/source/as_callfunc_xenon.cpp",
